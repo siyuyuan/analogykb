@@ -1,6 +1,6 @@
 # AnalogyKB
 
-Resources for our paper: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base
+Resources for our paper: ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base
 
 ## Dataset Format
 
